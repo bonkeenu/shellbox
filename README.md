@@ -8,6 +8,6 @@
 
 #### Usage
 
-1. Rewrite the configuration file according to the comment
+1. Rewrite the 'config' file according to the comment
 
 2. Type "sh gitConfigLocalUser.sh" in corresponding　git directory.
